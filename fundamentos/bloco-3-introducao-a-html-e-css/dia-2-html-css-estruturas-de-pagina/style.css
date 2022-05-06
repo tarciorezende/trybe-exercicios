@@ -1,0 +1,48 @@
+h1{
+    font-style: sans-serif;
+    font-size :65px;
+            color: orange;
+}
+p{
+    font-weight: 600;
+    font-size: 3em;
+}
+body{
+    background-color: greenyellow;
+    font-size: 16px;
+}
+
+#linha1{
+
+        background-color: yellow;
+        text-decoration: line-through;
+        color: palevioletred;     
+        font-style: italic;       
+    }
+
+#linha2{
+
+    background-color: red;
+    text-align: center;
+    text-decoration: underline;
+    color: cyan;    
+}
+
+#linha3{
+    
+    background-color: brown;
+    text-align: end;
+    text-decoration: overline;
+    color: rgb(255, 255, 255);    
+
+   
+
+        li{
+
+            background-color: red;
+        }
+
+        .cor-p-ul{
+            background-color: pink;
+        } 
+        
